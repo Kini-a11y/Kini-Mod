@@ -1,0 +1,19 @@
+Dziêkujê, ¿e dajesz szansê mojemu modpackowi.
+Jeœli Ci siê spodoba, proszê subskrybuj z dzwonkiem mój kana³ na YT.
+
+JAK WGRAÆ?
+1. Na czystym Minecrafcie pobierz wersje 1.14.4, w³¹cz grê i wyjdŸ.
+2. Aby mody mog³y dzia³aæ musisz zainstalowaæ - FORGE na wersje 1.14.4
+3. W³¹cz minecrafta z wersj¹ forge'a i wy³¹cz jak poka¿e siêmenu gry.
+4. Po zainstalowaniu FORGE, w start/wyszukaj wpisz - %appdata%
+5. WejdŸ do folderu .minecraft
+6. Jeœli ju¿ wczeœniej mia³eœ/aœ mody, lekko zmieñ nazwê folderu "mods" np."modsstare"
+7. Pobrany plik .rar nale¿y otworzyæ i przenieœæ mój folder "mods" do .minecraft
+8. Czasem mo¿e wyskoczyæ zapytanie - Czy chcesz podmieniæ plik? Naciskamy TAK/podmieñ lub coœ w tym stylu.
+9. Po tych wszystkich krokach mo¿na wy³¹czyæ wszystkie foldery i odpaliæ grê na forge'u.
+10. Polecam zwiêkszyæ w launcherze minecrafta pojemnoœæ RAMU dla forge przynajmniej do 3GB.
+
+
+JEŒLI NADAL MASZ PROBLEMY Z INSTALACJ¥/COŒ NIE DZIA£A, NAPISZ ŒMIA£O
+JAKI MASZ PROBLEM POD FILMEM Z KTÓREGO POBRA£EŒ/AŒ MOJ¥ PACZKÊ MODÓW.
+POZDRAWIAM I POLECAM ODWIEDZAÆ OPIS FILMU CO JAKIŒ CZAS BO BÊDÊ AKTUALIZOWA£ MODY.
